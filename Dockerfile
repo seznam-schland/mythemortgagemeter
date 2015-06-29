@@ -50,7 +50,7 @@ RUN echo "sitename:The Mortgage Meter" >> ~/.shutit/config
 
 # This value will be the root password for your container
 # TODO: Fill this in appropriately replacing rootpass your preferred container password, and then delete this line
-RUN echo "containerpass:rootpass" >> ~/.shutit/config
+RUN echo "containerpass:rootpw" >> ~/.shutit/config
 # CONFIG SECTION COMPLETE
 ################################################################################
 
